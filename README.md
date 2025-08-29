@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Mahdi Hasan Shuvo - [mahdihshuvo@gmail.com](mailto:shuvobbhh@gmail.com)
+Mahdi Hasan Shuvo - [shuvobbhh@gmail.com](mailto:shuvobbhh@gmail.com)
 
 Project Link: [https://github.com/Mahdi-hasan-shuvo/Food-Allergy-ML-Model](https://github.com/Mahdi-hasan-shuvo/Food-Allergy-ML-Model)
 
